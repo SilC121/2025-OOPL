@@ -83,3 +83,6 @@
     - 修復 BUG
     - 最後優化與關卡調整
     - 完成最終版遊戲
+
+# Giraffe Adventure
+![lab done](image.png)
