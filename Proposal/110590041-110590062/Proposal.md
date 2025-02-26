@@ -77,10 +77,6 @@
   - [ ] 針對所有功能進行 Bug 修正
   - [ ] 優化最終版本
 
-- Week 18：除錯與測試
-  - [ ] 針對所有功能進行 Bug 修正
-  - [ ] 優化最終版本
-
 # 長頸鹿作業截圖
  ![長頸鹿作業截圖1](長頸鹿作業截圖_1.png)
  ![長頸鹿作業截圖2](長頸鹿作業截圖_2.png)
@@ -90,4 +86,4 @@
  ![110590062](OOP成績證明_110590062.jpg)
 
 # 影片
-- https://www.youtube.com/watch?v=dzlGmq_ef9U&list=PLQ34a77lUC6A64yzgi3HFjLWDBTEid258
+ [倉庫番]https://www.youtube.com/watch?v=dzlGmq_ef9U&list=PLQ34a77lUC6A64yzgi3HFjLWDBTEid258
