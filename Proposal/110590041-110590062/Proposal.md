@@ -86,4 +86,4 @@
  ![110590062](OOP成績證明_110590062.jpg)
 
 # 影片
- [倉庫番]https://www.youtube.com/watch?v=dzlGmq_ef9U&list=PLQ34a77lUC6A64yzgi3HFjLWDBTEid258
+ [倉庫番](https://www.youtube.com/watch?v=dzlGmq_ef9U&list=PLQ34a77lUC6A64yzgi3HFjLWDBTEid258)
